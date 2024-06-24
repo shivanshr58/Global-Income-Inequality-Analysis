@@ -1,0 +1,9 @@
+Below is the explanation of the contents of this folder:
+
+1. Dataset: This refers to the raw data sourced directly from Kaggle, utilized as the foundation for subsequent analyses.
+
+2. Python Script: This has the code implemented for data cleaning and manipulation, saved as a Jupyter Notebook (.ipynb), and a link is also included. Kindly use that link as some output is not visible in the downloaded notebook file."
+
+3. Processed Data: This denotes the refined and manipulated dataset employed for generating visualizations in Flourish.
+
+4. Presentation: The final presentation, complete with slides and video.
